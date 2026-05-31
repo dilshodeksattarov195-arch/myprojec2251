@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smsstringify",
+        "uuid": 17913458,
+        "checksum": "77264a"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
